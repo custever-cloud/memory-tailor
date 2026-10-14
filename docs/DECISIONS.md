@@ -42,9 +42,19 @@ Decision:
 - Legal/operational policies will be drafted around the actual Memory Tailor workflow and reviewed before commercial launch.
 
 ## D-006 — Supplier/sample validation
-Status: OPEN
-Question:
-Define the physical sample validation plan, supplier validation requirements, and maximum pre-launch validation spend.
+Status: APPROVED
+Decision:
+- Use a two-stage validation process.
+- Phase 1: begin with real pets belonging to family/friends; target 2–3 samples, but authorize the first sample before committing to later samples.
+- Test the full intended customer journey, not only the physical print.
+- Collect structured, non-leading feedback and preserve each test as a case record.
+- Beta samples should also generate useful product/process marketing assets where permission is obtained.
+- Phase 2: after internal/friendly validation passes, test with a small group of real U.S. pet owners (initial target 3–5).
+- Do not require positive reviews or testimonials in exchange for a free/discounted test product.
+- Detailed procedure: docs/BETA_VALIDATION_PROTOCOL.md
+
+Budget:
+- Validation spending should be incremental. Do not automatically spend the previously discussed $300 ceiling; review results after each sample before further spend.
 
 ## Pending later decisions
 Additional decisions remain for final product specifications, upload-photo requirements, preview/revision policy, payment activation, tax, shipping coverage, refund/remake rules, AI/modeling workflow, supplier SLA, analytics, and controlled launch limits.
